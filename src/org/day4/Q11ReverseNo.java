@@ -20,7 +20,7 @@ public class Q11ReverseNo {
 			a=a/10;
 			
 		}
-		System.out.println("Reverse of Given Number is "+reverse);
+		System.out.println("Reverse of Given Number is  "+reverse);
 		s.close();
 	}
 
